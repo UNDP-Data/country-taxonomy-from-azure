@@ -1,6 +1,6 @@
 [
  {
-  "Alpha-3 code-1":"DZA",
+  "Alpha-3 code":"DZA",
   "Country or Area":"Algeria",
   "Alpha-2 code":"DZ",
   "Numeric code":"12",
@@ -16,7 +16,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"EGY",
+  "Alpha-3 code":"EGY",
   "Country or Area":"Egypt",
   "Alpha-2 code":"EG",
   "Numeric code":"818",
@@ -32,7 +32,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"LBY",
+  "Alpha-3 code":"LBY",
   "Country or Area":"Libya",
   "Alpha-2 code":"LY",
   "Numeric code":"434",
@@ -48,7 +48,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"MAR",
+  "Alpha-3 code":"MAR",
   "Country or Area":"Morocco",
   "Alpha-2 code":"MA",
   "Numeric code":"504",
@@ -64,7 +64,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"SDN",
+  "Alpha-3 code":"SDN",
   "Country or Area":"Sudan",
   "Alpha-2 code":"SD",
   "Numeric code":"729",
@@ -80,7 +80,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"TUN",
+  "Alpha-3 code":"TUN",
   "Country or Area":"Tunisia",
   "Alpha-2 code":"TN",
   "Numeric code":"788",
@@ -96,7 +96,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"ESH",
+  "Alpha-3 code":"ESH",
   "Country or Area":"Western Sahara",
   "Alpha-2 code":"EH",
   "Numeric code":"732",
@@ -112,7 +112,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"IOT",
+  "Alpha-3 code":"IOT",
   "Country or Area":"British Indian Ocean Territory",
   "Alpha-2 code":"IO",
   "Numeric code":"86",
@@ -128,7 +128,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"BDI",
+  "Alpha-3 code":"BDI",
   "Country or Area":"Burundi",
   "Alpha-2 code":"BI",
   "Numeric code":"108",
@@ -144,7 +144,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"COM",
+  "Alpha-3 code":"COM",
   "Country or Area":"Comoros",
   "Alpha-2 code":"KM",
   "Numeric code":"174",
@@ -160,7 +160,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"DJI",
+  "Alpha-3 code":"DJI",
   "Country or Area":"Djibouti",
   "Alpha-2 code":"DJ",
   "Numeric code":"262",
@@ -176,7 +176,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"ERI",
+  "Alpha-3 code":"ERI",
   "Country or Area":"Eritrea",
   "Alpha-2 code":"ER",
   "Numeric code":"232",
@@ -192,7 +192,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"ETH",
+  "Alpha-3 code":"ETH",
   "Country or Area":"Ethiopia",
   "Alpha-2 code":"ET",
   "Numeric code":"231",
@@ -208,7 +208,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"ATF",
+  "Alpha-3 code":"ATF",
   "Country or Area":"French Southern Territories",
   "Alpha-2 code":"TF",
   "Numeric code":"260",
@@ -224,7 +224,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"KEN",
+  "Alpha-3 code":"KEN",
   "Country or Area":"Kenya",
   "Alpha-2 code":"KE",
   "Numeric code":"404",
@@ -240,7 +240,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"MDG",
+  "Alpha-3 code":"MDG",
   "Country or Area":"Madagascar",
   "Alpha-2 code":"MG",
   "Numeric code":"450",
@@ -256,7 +256,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"MWI",
+  "Alpha-3 code":"MWI",
   "Country or Area":"Malawi",
   "Alpha-2 code":"MW",
   "Numeric code":"454",
@@ -272,7 +272,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"MUS",
+  "Alpha-3 code":"MUS",
   "Country or Area":"Mauritius",
   "Alpha-2 code":"MU",
   "Numeric code":"480",
@@ -288,7 +288,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"MYT",
+  "Alpha-3 code":"MYT",
   "Country or Area":"Mayotte",
   "Alpha-2 code":"YT",
   "Numeric code":"175",
@@ -304,7 +304,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"MOZ",
+  "Alpha-3 code":"MOZ",
   "Country or Area":"Mozambique",
   "Alpha-2 code":"MZ",
   "Numeric code":"508",
@@ -320,7 +320,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"REU",
+  "Alpha-3 code":"REU",
   "Country or Area":"R\u00e9union",
   "Alpha-2 code":"RE",
   "Numeric code":"638",
@@ -336,7 +336,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"RWA",
+  "Alpha-3 code":"RWA",
   "Country or Area":"Rwanda",
   "Alpha-2 code":"RW",
   "Numeric code":"646",
@@ -352,7 +352,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"SYC",
+  "Alpha-3 code":"SYC",
   "Country or Area":"Seychelles",
   "Alpha-2 code":"SC",
   "Numeric code":"690",
@@ -368,7 +368,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"SOM",
+  "Alpha-3 code":"SOM",
   "Country or Area":"Somalia",
   "Alpha-2 code":"SO",
   "Numeric code":"706",
@@ -384,7 +384,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"SSD",
+  "Alpha-3 code":"SSD",
   "Country or Area":"South Sudan",
   "Alpha-2 code":"SS",
   "Numeric code":"728",
@@ -400,7 +400,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"UGA",
+  "Alpha-3 code":"UGA",
   "Country or Area":"Uganda",
   "Alpha-2 code":"UG",
   "Numeric code":"800",
@@ -416,7 +416,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"TZA",
+  "Alpha-3 code":"TZA",
   "Country or Area":"United Republic of Tanzania",
   "Alpha-2 code":"TZ",
   "Numeric code":"834",
@@ -432,7 +432,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"ZMB",
+  "Alpha-3 code":"ZMB",
   "Country or Area":"Zambia",
   "Alpha-2 code":"ZM",
   "Numeric code":"894",
@@ -448,7 +448,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"ZWE",
+  "Alpha-3 code":"ZWE",
   "Country or Area":"Zimbabwe",
   "Alpha-2 code":"ZW",
   "Numeric code":"716",
@@ -464,7 +464,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"AGO",
+  "Alpha-3 code":"AGO",
   "Country or Area":"Angola",
   "Alpha-2 code":"AO",
   "Numeric code":"24",
@@ -480,7 +480,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"CMR",
+  "Alpha-3 code":"CMR",
   "Country or Area":"Cameroon",
   "Alpha-2 code":"CM",
   "Numeric code":"120",
@@ -496,7 +496,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"CAF",
+  "Alpha-3 code":"CAF",
   "Country or Area":"Central African Republic",
   "Alpha-2 code":"CF",
   "Numeric code":"140",
@@ -512,7 +512,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"TCD",
+  "Alpha-3 code":"TCD",
   "Country or Area":"Chad",
   "Alpha-2 code":"TD",
   "Numeric code":"148",
@@ -528,7 +528,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"COG",
+  "Alpha-3 code":"COG",
   "Country or Area":"Congo",
   "Alpha-2 code":"CG",
   "Numeric code":"178",
@@ -544,7 +544,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"COD",
+  "Alpha-3 code":"COD",
   "Country or Area":"Democratic Republic of the Congo",
   "Alpha-2 code":"CD",
   "Numeric code":"180",
@@ -560,7 +560,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"GNQ",
+  "Alpha-3 code":"GNQ",
   "Country or Area":"Equatorial Guinea",
   "Alpha-2 code":"GQ",
   "Numeric code":"226",
@@ -576,7 +576,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"GAB",
+  "Alpha-3 code":"GAB",
   "Country or Area":"Gabon",
   "Alpha-2 code":"GA",
   "Numeric code":"266",
@@ -592,7 +592,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"STP",
+  "Alpha-3 code":"STP",
   "Country or Area":"Sao Tome and Principe",
   "Alpha-2 code":"ST",
   "Numeric code":"678",
@@ -608,7 +608,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"BWA",
+  "Alpha-3 code":"BWA",
   "Country or Area":"Botswana",
   "Alpha-2 code":"BW",
   "Numeric code":"72",
@@ -624,7 +624,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"SWZ",
+  "Alpha-3 code":"SWZ",
   "Country or Area":"Eswatini",
   "Alpha-2 code":"SZ",
   "Numeric code":"748",
@@ -640,7 +640,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"LSO",
+  "Alpha-3 code":"LSO",
   "Country or Area":"Lesotho",
   "Alpha-2 code":"LS",
   "Numeric code":"426",
@@ -656,7 +656,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"NAM",
+  "Alpha-3 code":"NAM",
   "Country or Area":"Namibia",
   "Alpha-2 code":"",
   "Numeric code":"516",
@@ -672,7 +672,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"ZAF",
+  "Alpha-3 code":"ZAF",
   "Country or Area":"South Africa",
   "Alpha-2 code":"ZA",
   "Numeric code":"710",
@@ -688,7 +688,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"BEN",
+  "Alpha-3 code":"BEN",
   "Country or Area":"Benin",
   "Alpha-2 code":"BJ",
   "Numeric code":"204",
@@ -704,7 +704,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"BFA",
+  "Alpha-3 code":"BFA",
   "Country or Area":"Burkina Faso",
   "Alpha-2 code":"BF",
   "Numeric code":"854",
@@ -720,7 +720,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"CPV",
+  "Alpha-3 code":"CPV",
   "Country or Area":"Cabo Verde",
   "Alpha-2 code":"CV",
   "Numeric code":"132",
@@ -736,7 +736,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"CIV",
+  "Alpha-3 code":"CIV",
   "Country or Area":"C\u00f4te d\u2019Ivoire",
   "Alpha-2 code":"CI",
   "Numeric code":"384",
@@ -752,7 +752,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"GMB",
+  "Alpha-3 code":"GMB",
   "Country or Area":"Gambia",
   "Alpha-2 code":"GM",
   "Numeric code":"270",
@@ -768,7 +768,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"GHA",
+  "Alpha-3 code":"GHA",
   "Country or Area":"Ghana",
   "Alpha-2 code":"GH",
   "Numeric code":"288",
@@ -784,7 +784,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"GIN",
+  "Alpha-3 code":"GIN",
   "Country or Area":"Guinea",
   "Alpha-2 code":"GN",
   "Numeric code":"324",
@@ -800,7 +800,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"GNB",
+  "Alpha-3 code":"GNB",
   "Country or Area":"Guinea-Bissau",
   "Alpha-2 code":"GW",
   "Numeric code":"624",
@@ -816,7 +816,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"LBR",
+  "Alpha-3 code":"LBR",
   "Country or Area":"Liberia",
   "Alpha-2 code":"LR",
   "Numeric code":"430",
@@ -832,7 +832,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"MLI",
+  "Alpha-3 code":"MLI",
   "Country or Area":"Mali",
   "Alpha-2 code":"ML",
   "Numeric code":"466",
@@ -848,7 +848,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"MRT",
+  "Alpha-3 code":"MRT",
   "Country or Area":"Mauritania",
   "Alpha-2 code":"MR",
   "Numeric code":"478",
@@ -864,7 +864,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"NER",
+  "Alpha-3 code":"NER",
   "Country or Area":"Niger",
   "Alpha-2 code":"NE",
   "Numeric code":"562",
@@ -880,7 +880,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"NGA",
+  "Alpha-3 code":"NGA",
   "Country or Area":"Nigeria",
   "Alpha-2 code":"NG",
   "Numeric code":"566",
@@ -896,7 +896,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"SHN",
+  "Alpha-3 code":"SHN",
   "Country or Area":"Saint Helena",
   "Alpha-2 code":"SH",
   "Numeric code":"654",
@@ -912,7 +912,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"SEN",
+  "Alpha-3 code":"SEN",
   "Country or Area":"Senegal",
   "Alpha-2 code":"SN",
   "Numeric code":"686",
@@ -928,7 +928,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"SLE",
+  "Alpha-3 code":"SLE",
   "Country or Area":"Sierra Leone",
   "Alpha-2 code":"SL",
   "Numeric code":"694",
@@ -944,7 +944,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"TGO",
+  "Alpha-3 code":"TGO",
   "Country or Area":"Togo",
   "Alpha-2 code":"TG",
   "Numeric code":"768",
@@ -960,7 +960,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"AIA",
+  "Alpha-3 code":"AIA",
   "Country or Area":"Anguilla",
   "Alpha-2 code":"AI",
   "Numeric code":"660",
@@ -976,7 +976,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"ATG",
+  "Alpha-3 code":"ATG",
   "Country or Area":"Antigua and Barbuda",
   "Alpha-2 code":"AG",
   "Numeric code":"28",
@@ -992,7 +992,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"ABW",
+  "Alpha-3 code":"ABW",
   "Country or Area":"Aruba",
   "Alpha-2 code":"AW",
   "Numeric code":"533",
@@ -1008,7 +1008,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"BHS",
+  "Alpha-3 code":"BHS",
   "Country or Area":"Bahamas",
   "Alpha-2 code":"BS",
   "Numeric code":"44",
@@ -1024,7 +1024,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"BRB",
+  "Alpha-3 code":"BRB",
   "Country or Area":"Barbados",
   "Alpha-2 code":"BB",
   "Numeric code":"52",
@@ -1040,7 +1040,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"BES",
+  "Alpha-3 code":"BES",
   "Country or Area":"Bonaire, Sint Eustatius and Saba",
   "Alpha-2 code":"BQ",
   "Numeric code":"535",
@@ -1056,7 +1056,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"VGB",
+  "Alpha-3 code":"VGB",
   "Country or Area":"British Virgin Islands",
   "Alpha-2 code":"VG",
   "Numeric code":"92",
@@ -1072,7 +1072,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"CYM",
+  "Alpha-3 code":"CYM",
   "Country or Area":"Cayman Islands",
   "Alpha-2 code":"KY",
   "Numeric code":"136",
@@ -1088,7 +1088,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"CUB",
+  "Alpha-3 code":"CUB",
   "Country or Area":"Cuba",
   "Alpha-2 code":"CU",
   "Numeric code":"192",
@@ -1104,7 +1104,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"CUW",
+  "Alpha-3 code":"CUW",
   "Country or Area":"Cura\u00e7ao",
   "Alpha-2 code":"CW",
   "Numeric code":"531",
@@ -1120,7 +1120,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"DMA",
+  "Alpha-3 code":"DMA",
   "Country or Area":"Dominica",
   "Alpha-2 code":"DM",
   "Numeric code":"212",
@@ -1136,7 +1136,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"DOM",
+  "Alpha-3 code":"DOM",
   "Country or Area":"Dominican Republic",
   "Alpha-2 code":"DO",
   "Numeric code":"214",
@@ -1152,7 +1152,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"GRD",
+  "Alpha-3 code":"GRD",
   "Country or Area":"Grenada",
   "Alpha-2 code":"GD",
   "Numeric code":"308",
@@ -1168,7 +1168,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"GLP",
+  "Alpha-3 code":"GLP",
   "Country or Area":"Guadeloupe",
   "Alpha-2 code":"GP",
   "Numeric code":"312",
@@ -1184,7 +1184,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"HTI",
+  "Alpha-3 code":"HTI",
   "Country or Area":"Haiti",
   "Alpha-2 code":"HT",
   "Numeric code":"332",
@@ -1200,7 +1200,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"JAM",
+  "Alpha-3 code":"JAM",
   "Country or Area":"Jamaica",
   "Alpha-2 code":"JM",
   "Numeric code":"388",
@@ -1216,7 +1216,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"MTQ",
+  "Alpha-3 code":"MTQ",
   "Country or Area":"Martinique",
   "Alpha-2 code":"MQ",
   "Numeric code":"474",
@@ -1232,7 +1232,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"MSR",
+  "Alpha-3 code":"MSR",
   "Country or Area":"Montserrat",
   "Alpha-2 code":"MS",
   "Numeric code":"500",
@@ -1248,7 +1248,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"PRI",
+  "Alpha-3 code":"PRI",
   "Country or Area":"Puerto Rico",
   "Alpha-2 code":"PR",
   "Numeric code":"630",
@@ -1264,7 +1264,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"BLM",
+  "Alpha-3 code":"BLM",
   "Country or Area":"Saint Barth\u00e9lemy",
   "Alpha-2 code":"BL",
   "Numeric code":"652",
@@ -1280,7 +1280,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"KNA",
+  "Alpha-3 code":"KNA",
   "Country or Area":"Saint Kitts and Nevis",
   "Alpha-2 code":"KN",
   "Numeric code":"659",
@@ -1296,7 +1296,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"LCA",
+  "Alpha-3 code":"LCA",
   "Country or Area":"Saint Lucia",
   "Alpha-2 code":"LC",
   "Numeric code":"662",
@@ -1312,7 +1312,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"MAF",
+  "Alpha-3 code":"MAF",
   "Country or Area":"Saint Martin (French Part)",
   "Alpha-2 code":"MF",
   "Numeric code":"663",
@@ -1328,7 +1328,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"VCT",
+  "Alpha-3 code":"VCT",
   "Country or Area":"Saint Vincent and the Grenadines",
   "Alpha-2 code":"VC",
   "Numeric code":"670",
@@ -1344,7 +1344,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"SXM",
+  "Alpha-3 code":"SXM",
   "Country or Area":"Sint Maarten (Dutch part)",
   "Alpha-2 code":"SX",
   "Numeric code":"534",
@@ -1360,7 +1360,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"TTO",
+  "Alpha-3 code":"TTO",
   "Country or Area":"Trinidad and Tobago",
   "Alpha-2 code":"TT",
   "Numeric code":"780",
@@ -1376,7 +1376,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"TCA",
+  "Alpha-3 code":"TCA",
   "Country or Area":"Turks and Caicos Islands",
   "Alpha-2 code":"TC",
   "Numeric code":"796",
@@ -1392,7 +1392,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"VIR",
+  "Alpha-3 code":"VIR",
   "Country or Area":"United States Virgin Islands",
   "Alpha-2 code":"VI",
   "Numeric code":"850",
@@ -1408,7 +1408,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"BLZ",
+  "Alpha-3 code":"BLZ",
   "Country or Area":"Belize",
   "Alpha-2 code":"BZ",
   "Numeric code":"84",
@@ -1424,7 +1424,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"CRI",
+  "Alpha-3 code":"CRI",
   "Country or Area":"Costa Rica",
   "Alpha-2 code":"CR",
   "Numeric code":"188",
@@ -1440,7 +1440,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"SLV",
+  "Alpha-3 code":"SLV",
   "Country or Area":"El Salvador",
   "Alpha-2 code":"SV",
   "Numeric code":"222",
@@ -1456,7 +1456,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"GTM",
+  "Alpha-3 code":"GTM",
   "Country or Area":"Guatemala",
   "Alpha-2 code":"GT",
   "Numeric code":"320",
@@ -1472,7 +1472,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"HND",
+  "Alpha-3 code":"HND",
   "Country or Area":"Honduras",
   "Alpha-2 code":"HN",
   "Numeric code":"340",
@@ -1488,7 +1488,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"MEX",
+  "Alpha-3 code":"MEX",
   "Country or Area":"Mexico",
   "Alpha-2 code":"MX",
   "Numeric code":"484",
@@ -1504,7 +1504,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"NIC",
+  "Alpha-3 code":"NIC",
   "Country or Area":"Nicaragua",
   "Alpha-2 code":"NI",
   "Numeric code":"558",
@@ -1520,7 +1520,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"PAN",
+  "Alpha-3 code":"PAN",
   "Country or Area":"Panama",
   "Alpha-2 code":"PA",
   "Numeric code":"591",
@@ -1536,7 +1536,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"ARG",
+  "Alpha-3 code":"ARG",
   "Country or Area":"Argentina",
   "Alpha-2 code":"AR",
   "Numeric code":"32",
@@ -1552,7 +1552,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"BOL",
+  "Alpha-3 code":"BOL",
   "Country or Area":"Bolivia (Plurinational State of)",
   "Alpha-2 code":"BO",
   "Numeric code":"68",
@@ -1568,7 +1568,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"BVT",
+  "Alpha-3 code":"BVT",
   "Country or Area":"Bouvet Island",
   "Alpha-2 code":"BV",
   "Numeric code":"74",
@@ -1584,7 +1584,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"BRA",
+  "Alpha-3 code":"BRA",
   "Country or Area":"Brazil",
   "Alpha-2 code":"BR",
   "Numeric code":"76",
@@ -1600,7 +1600,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"CHL",
+  "Alpha-3 code":"CHL",
   "Country or Area":"Chile",
   "Alpha-2 code":"CL",
   "Numeric code":"152",
@@ -1616,7 +1616,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"COL",
+  "Alpha-3 code":"COL",
   "Country or Area":"Colombia",
   "Alpha-2 code":"CO",
   "Numeric code":"170",
@@ -1632,7 +1632,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"ECU",
+  "Alpha-3 code":"ECU",
   "Country or Area":"Ecuador",
   "Alpha-2 code":"EC",
   "Numeric code":"218",
@@ -1648,7 +1648,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"FLK",
+  "Alpha-3 code":"FLK",
   "Country or Area":"Falkland Islands (Malvinas)",
   "Alpha-2 code":"FK",
   "Numeric code":"238",
@@ -1664,7 +1664,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"GUF",
+  "Alpha-3 code":"GUF",
   "Country or Area":"French Guiana",
   "Alpha-2 code":"GF",
   "Numeric code":"254",
@@ -1680,7 +1680,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"GUY",
+  "Alpha-3 code":"GUY",
   "Country or Area":"Guyana",
   "Alpha-2 code":"GY",
   "Numeric code":"328",
@@ -1696,7 +1696,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"PRY",
+  "Alpha-3 code":"PRY",
   "Country or Area":"Paraguay",
   "Alpha-2 code":"PY",
   "Numeric code":"600",
@@ -1712,7 +1712,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"PER",
+  "Alpha-3 code":"PER",
   "Country or Area":"Peru",
   "Alpha-2 code":"PE",
   "Numeric code":"604",
@@ -1728,7 +1728,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"SGS",
+  "Alpha-3 code":"SGS",
   "Country or Area":"South Georgia and the South Sandwich Islands",
   "Alpha-2 code":"GS",
   "Numeric code":"239",
@@ -1744,7 +1744,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"SUR",
+  "Alpha-3 code":"SUR",
   "Country or Area":"Suriname",
   "Alpha-2 code":"SR",
   "Numeric code":"740",
@@ -1760,7 +1760,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"URY",
+  "Alpha-3 code":"URY",
   "Country or Area":"Uruguay",
   "Alpha-2 code":"UY",
   "Numeric code":"858",
@@ -1776,7 +1776,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"VEN",
+  "Alpha-3 code":"VEN",
   "Country or Area":"Venezuela (Bolivarian Republic of)",
   "Alpha-2 code":"VE",
   "Numeric code":"862",
@@ -1792,7 +1792,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"BMU",
+  "Alpha-3 code":"BMU",
   "Country or Area":"Bermuda",
   "Alpha-2 code":"BM",
   "Numeric code":"60",
@@ -1808,7 +1808,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"CAN",
+  "Alpha-3 code":"CAN",
   "Country or Area":"Canada",
   "Alpha-2 code":"CA",
   "Numeric code":"124",
@@ -1824,7 +1824,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"GRL",
+  "Alpha-3 code":"GRL",
   "Country or Area":"Greenland",
   "Alpha-2 code":"GL",
   "Numeric code":"304",
@@ -1840,7 +1840,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"SPM",
+  "Alpha-3 code":"SPM",
   "Country or Area":"Saint Pierre and Miquelon",
   "Alpha-2 code":"PM",
   "Numeric code":"666",
@@ -1856,7 +1856,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"USA",
+  "Alpha-3 code":"USA",
   "Country or Area":"United States of America",
   "Alpha-2 code":"US",
   "Numeric code":"840",
@@ -1872,7 +1872,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"ATA",
+  "Alpha-3 code":"ATA",
   "Country or Area":"Antarctica",
   "Alpha-2 code":"AQ",
   "Numeric code":"10",
@@ -1888,7 +1888,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"KAZ",
+  "Alpha-3 code":"KAZ",
   "Country or Area":"Kazakhstan",
   "Alpha-2 code":"KZ",
   "Numeric code":"398",
@@ -1904,7 +1904,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"KGZ",
+  "Alpha-3 code":"KGZ",
   "Country or Area":"Kyrgyzstan",
   "Alpha-2 code":"KG",
   "Numeric code":"417",
@@ -1920,7 +1920,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"TJK",
+  "Alpha-3 code":"TJK",
   "Country or Area":"Tajikistan",
   "Alpha-2 code":"TJ",
   "Numeric code":"762",
@@ -1936,7 +1936,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"TKM",
+  "Alpha-3 code":"TKM",
   "Country or Area":"Turkmenistan",
   "Alpha-2 code":"TM",
   "Numeric code":"795",
@@ -1952,7 +1952,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"UZB",
+  "Alpha-3 code":"UZB",
   "Country or Area":"Uzbekistan",
   "Alpha-2 code":"UZ",
   "Numeric code":"860",
@@ -1968,7 +1968,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"CHN",
+  "Alpha-3 code":"CHN",
   "Country or Area":"China",
   "Alpha-2 code":"CN",
   "Numeric code":"156",
@@ -1984,7 +1984,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"HKG",
+  "Alpha-3 code":"HKG",
   "Country or Area":"China, Hong Kong Special Administrative Region",
   "Alpha-2 code":"HK",
   "Numeric code":"344",
@@ -2000,7 +2000,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"MAC",
+  "Alpha-3 code":"MAC",
   "Country or Area":"China, Macao Special Administrative Region",
   "Alpha-2 code":"MO",
   "Numeric code":"446",
@@ -2016,7 +2016,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"PRK",
+  "Alpha-3 code":"PRK",
   "Country or Area":"Democratic People's Republic of Korea",
   "Alpha-2 code":"KP",
   "Numeric code":"408",
@@ -2032,7 +2032,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"JPN",
+  "Alpha-3 code":"JPN",
   "Country or Area":"Japan",
   "Alpha-2 code":"JP",
   "Numeric code":"392",
@@ -2048,7 +2048,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"MNG",
+  "Alpha-3 code":"MNG",
   "Country or Area":"Mongolia",
   "Alpha-2 code":"MN",
   "Numeric code":"496",
@@ -2064,7 +2064,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"KOR",
+  "Alpha-3 code":"KOR",
   "Country or Area":"Republic of Korea",
   "Alpha-2 code":"KR",
   "Numeric code":"410",
@@ -2080,7 +2080,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"BRN",
+  "Alpha-3 code":"BRN",
   "Country or Area":"Brunei Darussalam",
   "Alpha-2 code":"BN",
   "Numeric code":"96",
@@ -2096,7 +2096,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"KHM",
+  "Alpha-3 code":"KHM",
   "Country or Area":"Cambodia",
   "Alpha-2 code":"KH",
   "Numeric code":"116",
@@ -2112,7 +2112,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"IDN",
+  "Alpha-3 code":"IDN",
   "Country or Area":"Indonesia",
   "Alpha-2 code":"ID",
   "Numeric code":"360",
@@ -2128,7 +2128,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"LAO",
+  "Alpha-3 code":"LAO",
   "Country or Area":"Lao People's Democratic Republic",
   "Alpha-2 code":"LA",
   "Numeric code":"418",
@@ -2144,7 +2144,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"MYS",
+  "Alpha-3 code":"MYS",
   "Country or Area":"Malaysia",
   "Alpha-2 code":"MY",
   "Numeric code":"458",
@@ -2160,7 +2160,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"MMR",
+  "Alpha-3 code":"MMR",
   "Country or Area":"Myanmar",
   "Alpha-2 code":"MM",
   "Numeric code":"104",
@@ -2176,7 +2176,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"PHL",
+  "Alpha-3 code":"PHL",
   "Country or Area":"Philippines",
   "Alpha-2 code":"PH",
   "Numeric code":"608",
@@ -2192,7 +2192,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"SGP",
+  "Alpha-3 code":"SGP",
   "Country or Area":"Singapore",
   "Alpha-2 code":"SG",
   "Numeric code":"702",
@@ -2208,7 +2208,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"THA",
+  "Alpha-3 code":"THA",
   "Country or Area":"Thailand",
   "Alpha-2 code":"TH",
   "Numeric code":"764",
@@ -2224,7 +2224,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"TLS",
+  "Alpha-3 code":"TLS",
   "Country or Area":"Timor-Leste",
   "Alpha-2 code":"TL",
   "Numeric code":"626",
@@ -2240,7 +2240,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"VNM",
+  "Alpha-3 code":"VNM",
   "Country or Area":"Viet Nam",
   "Alpha-2 code":"VN",
   "Numeric code":"704",
@@ -2256,7 +2256,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"AFG",
+  "Alpha-3 code":"AFG",
   "Country or Area":"Afghanistan",
   "Alpha-2 code":"AF",
   "Numeric code":"4",
@@ -2272,7 +2272,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"BGD",
+  "Alpha-3 code":"BGD",
   "Country or Area":"Bangladesh",
   "Alpha-2 code":"BD",
   "Numeric code":"50",
@@ -2288,7 +2288,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"BTN",
+  "Alpha-3 code":"BTN",
   "Country or Area":"Bhutan",
   "Alpha-2 code":"BT",
   "Numeric code":"64",
@@ -2304,7 +2304,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"IND",
+  "Alpha-3 code":"IND",
   "Country or Area":"India",
   "Alpha-2 code":"IN",
   "Numeric code":"356",
@@ -2320,7 +2320,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"IRN",
+  "Alpha-3 code":"IRN",
   "Country or Area":"Iran (Islamic Republic of)",
   "Alpha-2 code":"IR",
   "Numeric code":"364",
@@ -2336,7 +2336,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"MDV",
+  "Alpha-3 code":"MDV",
   "Country or Area":"Maldives",
   "Alpha-2 code":"MV",
   "Numeric code":"462",
@@ -2352,7 +2352,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"NPL",
+  "Alpha-3 code":"NPL",
   "Country or Area":"Nepal",
   "Alpha-2 code":"NP",
   "Numeric code":"524",
@@ -2368,7 +2368,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"PAK",
+  "Alpha-3 code":"PAK",
   "Country or Area":"Pakistan",
   "Alpha-2 code":"PK",
   "Numeric code":"586",
@@ -2384,7 +2384,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"LKA",
+  "Alpha-3 code":"LKA",
   "Country or Area":"Sri Lanka",
   "Alpha-2 code":"LK",
   "Numeric code":"144",
@@ -2400,7 +2400,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"ARM",
+  "Alpha-3 code":"ARM",
   "Country or Area":"Armenia",
   "Alpha-2 code":"AM",
   "Numeric code":"51",
@@ -2416,7 +2416,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"AZE",
+  "Alpha-3 code":"AZE",
   "Country or Area":"Azerbaijan",
   "Alpha-2 code":"AZ",
   "Numeric code":"31",
@@ -2432,7 +2432,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"BHR",
+  "Alpha-3 code":"BHR",
   "Country or Area":"Bahrain",
   "Alpha-2 code":"BH",
   "Numeric code":"48",
@@ -2448,7 +2448,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"CYP",
+  "Alpha-3 code":"CYP",
   "Country or Area":"Cyprus",
   "Alpha-2 code":"CY",
   "Numeric code":"196",
@@ -2464,7 +2464,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"GEO",
+  "Alpha-3 code":"GEO",
   "Country or Area":"Georgia",
   "Alpha-2 code":"GE",
   "Numeric code":"268",
@@ -2480,7 +2480,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"IRQ",
+  "Alpha-3 code":"IRQ",
   "Country or Area":"Iraq",
   "Alpha-2 code":"IQ",
   "Numeric code":"368",
@@ -2496,7 +2496,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"ISR",
+  "Alpha-3 code":"ISR",
   "Country or Area":"Israel",
   "Alpha-2 code":"IL",
   "Numeric code":"376",
@@ -2512,7 +2512,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"JOR",
+  "Alpha-3 code":"JOR",
   "Country or Area":"Jordan",
   "Alpha-2 code":"JO",
   "Numeric code":"400",
@@ -2528,7 +2528,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"KWT",
+  "Alpha-3 code":"KWT",
   "Country or Area":"Kuwait",
   "Alpha-2 code":"KW",
   "Numeric code":"414",
@@ -2544,7 +2544,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"LBN",
+  "Alpha-3 code":"LBN",
   "Country or Area":"Lebanon",
   "Alpha-2 code":"LB",
   "Numeric code":"422",
@@ -2560,7 +2560,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"OMN",
+  "Alpha-3 code":"OMN",
   "Country or Area":"Oman",
   "Alpha-2 code":"OM",
   "Numeric code":"512",
@@ -2576,7 +2576,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"QAT",
+  "Alpha-3 code":"QAT",
   "Country or Area":"Qatar",
   "Alpha-2 code":"QA",
   "Numeric code":"634",
@@ -2592,7 +2592,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"SAU",
+  "Alpha-3 code":"SAU",
   "Country or Area":"Saudi Arabia",
   "Alpha-2 code":"SA",
   "Numeric code":"682",
@@ -2608,7 +2608,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"PSE",
+  "Alpha-3 code":"PSE",
   "Country or Area":"State of Palestine",
   "Alpha-2 code":"PS",
   "Numeric code":"275",
@@ -2624,7 +2624,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"SYR",
+  "Alpha-3 code":"SYR",
   "Country or Area":"Syrian Arab Republic",
   "Alpha-2 code":"SY",
   "Numeric code":"760",
@@ -2640,7 +2640,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"TUR",
+  "Alpha-3 code":"TUR",
   "Country or Area":"T\u00fcrkiye",
   "Alpha-2 code":"TR",
   "Numeric code":"792",
@@ -2656,7 +2656,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"ARE",
+  "Alpha-3 code":"ARE",
   "Country or Area":"United Arab Emirates",
   "Alpha-2 code":"AE",
   "Numeric code":"784",
@@ -2672,7 +2672,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"YEM",
+  "Alpha-3 code":"YEM",
   "Country or Area":"Yemen",
   "Alpha-2 code":"YE",
   "Numeric code":"887",
@@ -2688,7 +2688,7 @@
   "Income group":"Low income"
  },
  {
-  "Alpha-3 code-1":"BLR",
+  "Alpha-3 code":"BLR",
   "Country or Area":"Belarus",
   "Alpha-2 code":"BY",
   "Numeric code":"112",
@@ -2704,7 +2704,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"BGR",
+  "Alpha-3 code":"BGR",
   "Country or Area":"Bulgaria",
   "Alpha-2 code":"BG",
   "Numeric code":"100",
@@ -2720,7 +2720,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"CZE",
+  "Alpha-3 code":"CZE",
   "Country or Area":"Czechia",
   "Alpha-2 code":"CZ",
   "Numeric code":"203",
@@ -2736,7 +2736,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"HUN",
+  "Alpha-3 code":"HUN",
   "Country or Area":"Hungary",
   "Alpha-2 code":"HU",
   "Numeric code":"348",
@@ -2752,7 +2752,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"POL",
+  "Alpha-3 code":"POL",
   "Country or Area":"Poland",
   "Alpha-2 code":"PL",
   "Numeric code":"616",
@@ -2768,7 +2768,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"MDA",
+  "Alpha-3 code":"MDA",
   "Country or Area":"Republic of Moldova",
   "Alpha-2 code":"MD",
   "Numeric code":"498",
@@ -2784,7 +2784,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"ROU",
+  "Alpha-3 code":"ROU",
   "Country or Area":"Romania",
   "Alpha-2 code":"RO",
   "Numeric code":"642",
@@ -2800,7 +2800,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"RUS",
+  "Alpha-3 code":"RUS",
   "Country or Area":"Russian Federation",
   "Alpha-2 code":"RU",
   "Numeric code":"643",
@@ -2816,7 +2816,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"SVK",
+  "Alpha-3 code":"SVK",
   "Country or Area":"Slovakia",
   "Alpha-2 code":"SK",
   "Numeric code":"703",
@@ -2832,7 +2832,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"UKR",
+  "Alpha-3 code":"UKR",
   "Country or Area":"Ukraine",
   "Alpha-2 code":"UA",
   "Numeric code":"804",
@@ -2848,7 +2848,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"ALA",
+  "Alpha-3 code":"ALA",
   "Country or Area":"\u00c5land Islands",
   "Alpha-2 code":"AX",
   "Numeric code":"248",
@@ -2864,7 +2864,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"GGY",
+  "Alpha-3 code":"GGY",
   "Country or Area":"Guernsey",
   "Alpha-2 code":"GG",
   "Numeric code":"831",
@@ -2880,7 +2880,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"JEY",
+  "Alpha-3 code":"JEY",
   "Country or Area":"Jersey",
   "Alpha-2 code":"JE",
   "Numeric code":"832",
@@ -2896,7 +2896,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"DNK",
+  "Alpha-3 code":"DNK",
   "Country or Area":"Denmark",
   "Alpha-2 code":"DK",
   "Numeric code":"208",
@@ -2912,7 +2912,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"EST",
+  "Alpha-3 code":"EST",
   "Country or Area":"Estonia",
   "Alpha-2 code":"EE",
   "Numeric code":"233",
@@ -2928,7 +2928,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"FRO",
+  "Alpha-3 code":"FRO",
   "Country or Area":"Faroe Islands",
   "Alpha-2 code":"FO",
   "Numeric code":"234",
@@ -2944,7 +2944,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"FIN",
+  "Alpha-3 code":"FIN",
   "Country or Area":"Finland",
   "Alpha-2 code":"FI",
   "Numeric code":"246",
@@ -2960,7 +2960,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"ISL",
+  "Alpha-3 code":"ISL",
   "Country or Area":"Iceland",
   "Alpha-2 code":"IS",
   "Numeric code":"352",
@@ -2976,7 +2976,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"IRL",
+  "Alpha-3 code":"IRL",
   "Country or Area":"Ireland",
   "Alpha-2 code":"IE",
   "Numeric code":"372",
@@ -2992,7 +2992,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"IMN",
+  "Alpha-3 code":"IMN",
   "Country or Area":"Isle of Man",
   "Alpha-2 code":"IM",
   "Numeric code":"833",
@@ -3008,7 +3008,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"LVA",
+  "Alpha-3 code":"LVA",
   "Country or Area":"Latvia",
   "Alpha-2 code":"LV",
   "Numeric code":"428",
@@ -3024,7 +3024,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"LTU",
+  "Alpha-3 code":"LTU",
   "Country or Area":"Lithuania",
   "Alpha-2 code":"LT",
   "Numeric code":"440",
@@ -3040,7 +3040,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"NOR",
+  "Alpha-3 code":"NOR",
   "Country or Area":"Norway",
   "Alpha-2 code":"NO",
   "Numeric code":"578",
@@ -3056,7 +3056,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"SJM",
+  "Alpha-3 code":"SJM",
   "Country or Area":"Svalbard and Jan Mayen Islands",
   "Alpha-2 code":"SJ",
   "Numeric code":"744",
@@ -3072,7 +3072,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"SWE",
+  "Alpha-3 code":"SWE",
   "Country or Area":"Sweden",
   "Alpha-2 code":"SE",
   "Numeric code":"752",
@@ -3088,7 +3088,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"GBR",
+  "Alpha-3 code":"GBR",
   "Country or Area":"United Kingdom of Great Britain and Northern Ireland",
   "Alpha-2 code":"GB",
   "Numeric code":"826",
@@ -3104,7 +3104,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"ALB",
+  "Alpha-3 code":"ALB",
   "Country or Area":"Albania",
   "Alpha-2 code":"AL",
   "Numeric code":"8",
@@ -3120,7 +3120,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"AND",
+  "Alpha-3 code":"AND",
   "Country or Area":"Andorra",
   "Alpha-2 code":"AD",
   "Numeric code":"20",
@@ -3136,7 +3136,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"BIH",
+  "Alpha-3 code":"BIH",
   "Country or Area":"Bosnia and Herzegovina",
   "Alpha-2 code":"BA",
   "Numeric code":"70",
@@ -3152,7 +3152,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"HRV",
+  "Alpha-3 code":"HRV",
   "Country or Area":"Croatia",
   "Alpha-2 code":"HR",
   "Numeric code":"191",
@@ -3168,7 +3168,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"GIB",
+  "Alpha-3 code":"GIB",
   "Country or Area":"Gibraltar",
   "Alpha-2 code":"GI",
   "Numeric code":"292",
@@ -3184,7 +3184,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"GRC",
+  "Alpha-3 code":"GRC",
   "Country or Area":"Greece",
   "Alpha-2 code":"GR",
   "Numeric code":"300",
@@ -3200,7 +3200,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"VAT",
+  "Alpha-3 code":"VAT",
   "Country or Area":"Holy See",
   "Alpha-2 code":"VA",
   "Numeric code":"336",
@@ -3216,7 +3216,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"ITA",
+  "Alpha-3 code":"ITA",
   "Country or Area":"Italy",
   "Alpha-2 code":"IT",
   "Numeric code":"380",
@@ -3232,7 +3232,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"MLT",
+  "Alpha-3 code":"MLT",
   "Country or Area":"Malta",
   "Alpha-2 code":"MT",
   "Numeric code":"470",
@@ -3248,7 +3248,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"MNE",
+  "Alpha-3 code":"MNE",
   "Country or Area":"Montenegro",
   "Alpha-2 code":"ME",
   "Numeric code":"499",
@@ -3264,7 +3264,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"MKD",
+  "Alpha-3 code":"MKD",
   "Country or Area":"North Macedonia",
   "Alpha-2 code":"MK",
   "Numeric code":"807",
@@ -3280,7 +3280,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"PRT",
+  "Alpha-3 code":"PRT",
   "Country or Area":"Portugal",
   "Alpha-2 code":"PT",
   "Numeric code":"620",
@@ -3296,7 +3296,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"SMR",
+  "Alpha-3 code":"SMR",
   "Country or Area":"San Marino",
   "Alpha-2 code":"SM",
   "Numeric code":"674",
@@ -3312,7 +3312,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"SRB",
+  "Alpha-3 code":"SRB",
   "Country or Area":"Serbia",
   "Alpha-2 code":"RS",
   "Numeric code":"688",
@@ -3328,7 +3328,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"SVN",
+  "Alpha-3 code":"SVN",
   "Country or Area":"Slovenia",
   "Alpha-2 code":"SI",
   "Numeric code":"705",
@@ -3344,7 +3344,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"ESP",
+  "Alpha-3 code":"ESP",
   "Country or Area":"Spain",
   "Alpha-2 code":"ES",
   "Numeric code":"724",
@@ -3360,7 +3360,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"AUT",
+  "Alpha-3 code":"AUT",
   "Country or Area":"Austria",
   "Alpha-2 code":"AT",
   "Numeric code":"40",
@@ -3376,7 +3376,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"BEL",
+  "Alpha-3 code":"BEL",
   "Country or Area":"Belgium",
   "Alpha-2 code":"BE",
   "Numeric code":"56",
@@ -3392,7 +3392,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"FRA",
+  "Alpha-3 code":"FRA",
   "Country or Area":"France",
   "Alpha-2 code":"FR",
   "Numeric code":"250",
@@ -3408,7 +3408,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"DEU",
+  "Alpha-3 code":"DEU",
   "Country or Area":"Germany",
   "Alpha-2 code":"DE",
   "Numeric code":"276",
@@ -3424,7 +3424,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"LIE",
+  "Alpha-3 code":"LIE",
   "Country or Area":"Liechtenstein",
   "Alpha-2 code":"LI",
   "Numeric code":"438",
@@ -3440,7 +3440,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"LUX",
+  "Alpha-3 code":"LUX",
   "Country or Area":"Luxembourg",
   "Alpha-2 code":"LU",
   "Numeric code":"442",
@@ -3456,7 +3456,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"MCO",
+  "Alpha-3 code":"MCO",
   "Country or Area":"Monaco",
   "Alpha-2 code":"MC",
   "Numeric code":"492",
@@ -3472,7 +3472,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"NLD",
+  "Alpha-3 code":"NLD",
   "Country or Area":"Netherlands",
   "Alpha-2 code":"NL",
   "Numeric code":"528",
@@ -3488,7 +3488,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"CHE",
+  "Alpha-3 code":"CHE",
   "Country or Area":"Switzerland",
   "Alpha-2 code":"CH",
   "Numeric code":"756",
@@ -3504,7 +3504,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"AUS",
+  "Alpha-3 code":"AUS",
   "Country or Area":"Australia",
   "Alpha-2 code":"AU",
   "Numeric code":"36",
@@ -3520,7 +3520,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"CXR",
+  "Alpha-3 code":"CXR",
   "Country or Area":"Christmas Island",
   "Alpha-2 code":"CX",
   "Numeric code":"162",
@@ -3536,7 +3536,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"CCK",
+  "Alpha-3 code":"CCK",
   "Country or Area":"Cocos (Keeling) Islands",
   "Alpha-2 code":"CC",
   "Numeric code":"166",
@@ -3552,7 +3552,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"HMD",
+  "Alpha-3 code":"HMD",
   "Country or Area":"Heard Island and McDonald Islands",
   "Alpha-2 code":"HM",
   "Numeric code":"334",
@@ -3568,7 +3568,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"NZL",
+  "Alpha-3 code":"NZL",
   "Country or Area":"New Zealand",
   "Alpha-2 code":"NZ",
   "Numeric code":"554",
@@ -3584,7 +3584,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"NFK",
+  "Alpha-3 code":"NFK",
   "Country or Area":"Norfolk Island",
   "Alpha-2 code":"NF",
   "Numeric code":"574",
@@ -3600,7 +3600,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"FJI",
+  "Alpha-3 code":"FJI",
   "Country or Area":"Fiji",
   "Alpha-2 code":"FJ",
   "Numeric code":"242",
@@ -3616,7 +3616,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"NCL",
+  "Alpha-3 code":"NCL",
   "Country or Area":"New Caledonia",
   "Alpha-2 code":"NC",
   "Numeric code":"540",
@@ -3632,7 +3632,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"PNG",
+  "Alpha-3 code":"PNG",
   "Country or Area":"Papua New Guinea",
   "Alpha-2 code":"PG",
   "Numeric code":"598",
@@ -3648,7 +3648,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"SLB",
+  "Alpha-3 code":"SLB",
   "Country or Area":"Solomon Islands",
   "Alpha-2 code":"SB",
   "Numeric code":"90",
@@ -3664,7 +3664,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"VUT",
+  "Alpha-3 code":"VUT",
   "Country or Area":"Vanuatu",
   "Alpha-2 code":"VU",
   "Numeric code":"548",
@@ -3680,7 +3680,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"GUM",
+  "Alpha-3 code":"GUM",
   "Country or Area":"Guam",
   "Alpha-2 code":"GU",
   "Numeric code":"316",
@@ -3696,7 +3696,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"KIR",
+  "Alpha-3 code":"KIR",
   "Country or Area":"Kiribati",
   "Alpha-2 code":"KI",
   "Numeric code":"296",
@@ -3712,7 +3712,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"MHL",
+  "Alpha-3 code":"MHL",
   "Country or Area":"Marshall Islands",
   "Alpha-2 code":"MH",
   "Numeric code":"584",
@@ -3728,7 +3728,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"FSM",
+  "Alpha-3 code":"FSM",
   "Country or Area":"Micronesia (Federated States of)",
   "Alpha-2 code":"FM",
   "Numeric code":"583",
@@ -3744,7 +3744,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"NRU",
+  "Alpha-3 code":"NRU",
   "Country or Area":"Nauru",
   "Alpha-2 code":"NR",
   "Numeric code":"520",
@@ -3760,7 +3760,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"MNP",
+  "Alpha-3 code":"MNP",
   "Country or Area":"Northern Mariana Islands",
   "Alpha-2 code":"MP",
   "Numeric code":"580",
@@ -3776,7 +3776,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"PLW",
+  "Alpha-3 code":"PLW",
   "Country or Area":"Palau",
   "Alpha-2 code":"PW",
   "Numeric code":"585",
@@ -3792,7 +3792,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"UMI",
+  "Alpha-3 code":"UMI",
   "Country or Area":"United States Minor Outlying Islands",
   "Alpha-2 code":"UM",
   "Numeric code":"581",
@@ -3808,7 +3808,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"ASM",
+  "Alpha-3 code":"ASM",
   "Country or Area":"American Samoa",
   "Alpha-2 code":"AS",
   "Numeric code":"16",
@@ -3824,7 +3824,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"COK",
+  "Alpha-3 code":"COK",
   "Country or Area":"Cook Islands",
   "Alpha-2 code":"CK",
   "Numeric code":"184",
@@ -3840,7 +3840,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"PYF",
+  "Alpha-3 code":"PYF",
   "Country or Area":"French Polynesia",
   "Alpha-2 code":"PF",
   "Numeric code":"258",
@@ -3856,7 +3856,7 @@
   "Income group":"High income"
  },
  {
-  "Alpha-3 code-1":"NIU",
+  "Alpha-3 code":"NIU",
   "Country or Area":"Niue",
   "Alpha-2 code":"NU",
   "Numeric code":"570",
@@ -3872,7 +3872,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"PCN",
+  "Alpha-3 code":"PCN",
   "Country or Area":"Pitcairn",
   "Alpha-2 code":"PN",
   "Numeric code":"612",
@@ -3888,7 +3888,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"WSM",
+  "Alpha-3 code":"WSM",
   "Country or Area":"Samoa",
   "Alpha-2 code":"WS",
   "Numeric code":"882",
@@ -3904,7 +3904,7 @@
   "Income group":"Lower middle income"
  },
  {
-  "Alpha-3 code-1":"TKL",
+  "Alpha-3 code":"TKL",
   "Country or Area":"Tokelau",
   "Alpha-2 code":"TK",
   "Numeric code":"772",
@@ -3920,7 +3920,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"TON",
+  "Alpha-3 code":"TON",
   "Country or Area":"Tonga",
   "Alpha-2 code":"TO",
   "Numeric code":"776",
@@ -3936,7 +3936,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"TUV",
+  "Alpha-3 code":"TUV",
   "Country or Area":"Tuvalu",
   "Alpha-2 code":"TV",
   "Numeric code":"798",
@@ -3952,7 +3952,7 @@
   "Income group":"Upper middle income"
  },
  {
-  "Alpha-3 code-1":"WLF",
+  "Alpha-3 code":"WLF",
   "Country or Area":"Wallis and Futuna Islands",
   "Alpha-2 code":"WF",
   "Numeric code":"876",
@@ -3968,7 +3968,7 @@
   "Income group":""
  },
  {
-  "Alpha-3 code-1":"XKX",
+  "Alpha-3 code":"XKX",
   "Country or Area":"Kosovo (as per UNSCR 1244)",
   "Alpha-2 code":"XK",
   "Numeric code":"383",
