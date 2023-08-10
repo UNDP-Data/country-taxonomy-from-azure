@@ -2105,7 +2105,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Upper middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"HKG",
@@ -2156,7 +2156,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Low income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"JPN",
@@ -2190,7 +2190,7 @@
   "SIDS":false,
   "Development classification":"LLDC",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"KOR",
@@ -2224,7 +2224,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"High income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"KHM",
@@ -2241,7 +2241,7 @@
   "SIDS":false,
   "Development classification":"LDC",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"IDN",
@@ -2258,7 +2258,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"LAO",
@@ -2275,7 +2275,7 @@
   "SIDS":false,
   "Development classification":"LDC, LLDC",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"MYS",
@@ -2292,7 +2292,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Upper middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"MMR",
@@ -2309,7 +2309,7 @@
   "SIDS":false,
   "Development classification":"LDC",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"PHL",
@@ -2326,7 +2326,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"SGP",
@@ -2343,7 +2343,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"High income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"THA",
@@ -2360,7 +2360,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Upper middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"TLS",
@@ -2377,7 +2377,7 @@
   "SIDS":true,
   "Development classification":"LDC, SIDS",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"VNM",
@@ -2394,7 +2394,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"AFG",
@@ -2411,7 +2411,7 @@
   "SIDS":false,
   "Development classification":"LDC, LLDC",
   "Income group":"Low income",
-  "UNDP_Region":"UNDP_SA"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"BGD",
@@ -2428,7 +2428,7 @@
   "SIDS":false,
   "Development classification":"LDC",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_SA"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"BTN",
@@ -2445,7 +2445,7 @@
   "SIDS":false,
   "Development classification":"LDC, LLDC",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_SA"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"IND",
@@ -2462,7 +2462,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_SA"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"IRN",
@@ -2479,7 +2479,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_SA"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"MDV",
@@ -2496,7 +2496,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"Upper middle income",
-  "UNDP_Region":"UNDP_SA"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"NPL",
@@ -2513,7 +2513,7 @@
   "SIDS":false,
   "Development classification":"LDC, LLDC",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_SA"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"PAK",
@@ -2530,7 +2530,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_SA"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"LKA",
@@ -2547,7 +2547,7 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_SA"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"ARM",
@@ -3839,7 +3839,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"Upper middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"NCL",
@@ -3873,7 +3873,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"SLB",
@@ -3890,7 +3890,7 @@
   "SIDS":true,
   "Development classification":"LDC, SIDS",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"VUT",
@@ -3907,7 +3907,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"GUM",
@@ -3941,7 +3941,7 @@
   "SIDS":true,
   "Development classification":"LDC, SIDS",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"MHL",
@@ -3958,7 +3958,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"Upper middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"FSM",
@@ -3975,7 +3975,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"NRU",
@@ -3992,7 +3992,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"High income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"MNP",
@@ -4026,7 +4026,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"Upper middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"UMI",
@@ -4145,7 +4145,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"Lower middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"TKL",
@@ -4179,7 +4179,7 @@
   "SIDS":true,
   "Development classification":"SIDS",
   "Income group":"Upper middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"TUV",
@@ -4196,7 +4196,7 @@
   "SIDS":true,
   "Development classification":"LDC, SIDS",
   "Income group":"Upper middle income",
-  "UNDP_Region":"UNDP_EAP"
+  "UNDP_Region":"UNDP_AP"
  },
  {
   "Alpha-3 code":"WLF",
