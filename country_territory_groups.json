@@ -2142,23 +2142,6 @@
   "UNDP_Region":""
  },
  {
-  "Alpha-3 code":"TWN",
-  "Country or Area":"Taiwan, Province of China",
-  "Alpha-2 code":"TW",
-  "Numeric code":"158",
-  "Latitude (average)":"23.7492714",
-  "Longitude (average)":"120.95495154",
-  "Group 1":"Asia",
-  "Group 2":"Eastern Asia",
-  "Group 3":"",
-  "LDC":false,
-  "LLDC":false,
-  "SIDS":false,
-  "Development classification":"",
-  "Income group":"High income",
-  "UNDP_Region":""
- },
- {
   "Alpha-3 code":"PRK",
   "Country or Area":"Democratic People's Republic of Korea",
   "Alpha-2 code":"KP",
