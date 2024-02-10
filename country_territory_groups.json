@@ -2151,9 +2151,9 @@
   "Group 1":"Asia",
   "Group 2":"Eastern Asia",
   "Group 3":"",
-  "LDC":False,
-  "LLDC":False,
-  "SIDS":False,
+  "LDC":false,
+  "LLDC":false,
+  "SIDS":false,
   "Development classification":"",
   "Income group":"High income",
   "UNDP_Region":""
